@@ -71,5 +71,6 @@ The copilot is instructed not to invent pricing, coverage, eligibility rules or 
 
 This is a prototype using a synthetic knowledge base. It does not connect to live provider systems, calculate real quotations, store permanent client records or replace a licensed benefits advisor.
 
-##Demo
+## Demo
+
 https://youtu.be/pQmRmwbLCe0 
